@@ -1,0 +1,13 @@
+server:
+    port: 8080
+
+loan:
+    interest: 5.00
+    factor: 1.50
+    weekIncreasePerExtension: 1
+
+    assessment:
+        maxAmount: EUR 1000.00
+        maxLoansPerDay: 3
+        morningHour: 7
+---
